@@ -11,7 +11,7 @@ namespace BasicAppTest
 		public void TestMethod1()
 		{
 			Class1 tp = new Class1();
-			Assert.AreEqual(tp.Name, "[Jayda Walker] - The Code Master");
+			Assert.AreEqual(tp.Name, "[Jayda Walker] - The Code Master.");
 		}
 	}
 }
