@@ -12,6 +12,7 @@
             <% JW_Basic_App_GitHub.Class1 tp = new JW_Basic_App_GitHub.Class1(); %>
 
             <%=tp.Name %>
+          change
         </div>
     </form>
 </body>
